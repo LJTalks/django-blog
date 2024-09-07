@@ -1,0 +1,1 @@
+console.log("Always believe something wonderful is about to happen!");
